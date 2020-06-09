@@ -13,9 +13,11 @@ The goal of this project was to demonstrate my knowledge of react, router, and a
 - HTML
 -Java Script
 
-## Futue Edit
+## Future Goals
 
 - Add search functionality
+
+- Error handling for bad routes
 
 ## Images 
 
