@@ -2,7 +2,7 @@
 
 ## Over View
 
-
+The goal of this project was to demonstrate my knowledge of react, router, and async javascript. I decided to use a league of legends api. The site allows you to view all the champions that are in the game currently and allows you to see and overview of that character. Users have the ability to store thier favorite heros into a favorites list and view thos as well.
 
 ## Tech Used
 
@@ -12,6 +12,10 @@
 - CSS
 - HTML
 -Java Script
+
+## Futue Edit
+
+- Add search functionality
 
 ## Images 
 
