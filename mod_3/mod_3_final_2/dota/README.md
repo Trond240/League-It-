@@ -1,5 +1,18 @@
 # League-it
 
+## Over View
+
+
+
+## Tech Used
+
+- React.js
+- React Testing Library
+- Jest-Dom testing library
+- CSS
+- HTML
+-Java Script
+
 ## Images 
 
 ![AD410C7B-E41F-45E6-A566-12B2D0C51404_1_105_c](https://user-images.githubusercontent.com/49410633/84207207-0b3ea200-aa6e-11ea-9eab-50468cc94977.jpeg)
